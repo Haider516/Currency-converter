@@ -1,0 +1,23 @@
+Entered currency  isPAKISTANI_RUPEE
+ demanded currency is:POUND_STERLING
+ Entered amount is:56
+converted amount is:0.2576
+Entered currency  isAFGHAN_AFGHANI
+ demanded currency is:INDIAN_RUPEE
+ Entered amount is:50
+converted amount is:47.5
+Entered currency  isPOUND_STERLING
+ demanded currency is:AFGHAN_AFGHANI
+ Entered amount is:150
+converted amount is:15775.5
+Entered currency  isPOUND_STERLING
+ demanded currency is:AFGHAN_AFGHANI
+ Entered amount is:150
+converted amount is:15775.5
+Entered currency  isINDIAN_RUPEE
+ demanded currency is:INDONASIA_RUPIAH
+ Entered amount is:100
+converted amount is:19344
+Entered currency  isCHINESE_YUAN
+ demanded currency is:PAKISTANI_RUPEE
+ Entered amount is:100
