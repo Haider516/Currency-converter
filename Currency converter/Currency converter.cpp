@@ -145,7 +145,6 @@ void remove()
 //_____________________________________________________________________________________________________
 
 //_____________PROTOTYPES_________
-//________________HAIDER
 
 //____________________________________________________FOR INDONASIA______________________________________.
 float givenresult1(currency&);
@@ -198,8 +197,6 @@ float givenresult41(currency&);
 float givenresult42(currency&);
 float givenresult43(currency&);
 float givenresult44(currency&);
-
-//___________________________________SHERAZ CONVERSION_____________________________________
 float givenresult01(currency&);
 float givenresult02(currency&);
 float givenresult03(currency&);
@@ -245,8 +242,6 @@ float givenresult042(currency&);
 float givenresult043(currency&);
 float givenresult044(currency&);
 //_________________________________________________________________________________
-
-//__________________________Abdullah____________________________________________
 float givenresultA(currency&);
 float givenresultB(currency&);
 float givenresultC(currency&);
@@ -708,7 +703,7 @@ label:
     else if ((p1.from == "PAKISTANI_RUPEE") && (p1.To == "INDONASIA_RUPIAH"))
     {
         cout << "YOUR ANSWER IS :";
-        //  1 PAKISTANI RUPEE = 87.83 INDONESIAN RUPIAH.....”PAKISTANI_RUPEE”
+        //  1 PAKISTANI RUPEE = 87.83 INDONESIAN RUPIAH.....Â”PAKISTANI_RUPEEÂ”
         answer = givenresult44(p1);
         cout << answer;
     }
